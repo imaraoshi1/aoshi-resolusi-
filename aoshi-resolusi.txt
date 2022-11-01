@@ -1,0 +1,3 @@
+Aoshi Resolusi
+- Belajar API Laravel
+- Ulangi Belajar OOP PHP
