@@ -1,5 +1,0 @@
-Aoshi Resolusi
-- Belajar API Laravel
-- Ulangi Belajar OOP PHP
-- Belajar CSS
-- Belajar VB.NET
